@@ -1,2 +1,8 @@
 # Individual-Project-Ran-It
-Individual project
+วิธีการติดตั้งโปรแกรม
+
+1.
+
+วิธีใช้งานโปรแกรม
+
+1.
